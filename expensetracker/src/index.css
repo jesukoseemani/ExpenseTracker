@@ -1,0 +1,14 @@
+#root,
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-size: 12px;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(./assets/income.jpg);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+}
